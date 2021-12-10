@@ -111,3 +111,13 @@ Email: sudomakecoffee1@gmail.com
 GitHub: [@patrick-anastasio](https://github.com/patrick-anastasio)
 
 LinkedIn: [patrickanastasio](linkedin.com/in/patrickanastasio/)
+
+
+```
+├── README.md                        <- The top-level README for reviewers of this project
+├── microsoft_movie_analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── presentation.pdf                 <- PDF version of project presentation
+├── movie__analysis_notebook.pdf     <- PDF version of Jupyter notebook
+├── data                             <- Both sourced externally and generated from code
+└── images                           <- Both sourced externally and generated from code
+```
