@@ -38,8 +38,7 @@ From these merged and cleaned datasets I pulled dataframes based on:
 >3. directors of the top thirty (30) grossing movies, as well as writers and actors.
 
 ## Results
-
-### Filtering the data on a minimum number of votes and a minimum rating threshold, my analysis shows the highest rated genres by average movie rating are:
+#### Filtering the data on a minimum number of votes and a minimum rating threshold, my analysis shows the highest rated genres by average movie rating are:
     
   > - **Action** is the top genre by a large margin 
 
@@ -50,7 +49,7 @@ From these merged and cleaned datasets I pulled dataframes based on:
         - Drama
         - Animation
         
-### Looking at the gross profit of the top 30 movies of the modern era, my analysis shows the following:
+#### Looking at the gross profit of the top 30 movies of the modern era, my analysis shows the following:
 
    > - 15 were in the animation or computer-generated graphic genre, with many being franchises as well
 
@@ -60,7 +59,7 @@ From these merged and cleaned datasets I pulled dataframes based on:
         
 
 
-### Further, looking at the popularity scores of the top 30 most popular movies of the modern era, my analysis shows the following:
+#### Further, looking at the popularity scores of the top 30 most popular movies of the modern era, my analysis shows the following:
 
    > - 22 were in the action genre, 19 were part of a franchise
         - 16 of these were super-hero / comic book franchises
@@ -71,7 +70,7 @@ From these merged and cleaned datasets I pulled dataframes based on:
 
    > - 2 were fantasy/adventure franchises
 
-### We also looked at who the directors were on the most profitable and the most opular movies, with some directors appearing multiple times in these lists.
+#### We also looked at who the directors were on the most profitable and the most opular movies, with some directors appearing multiple times in these lists.
 
 ## In Conclusion
 Based on these observations, there are three reccomendations that I will put forth
