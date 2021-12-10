@@ -1,3 +1,5 @@
+![image](./images/movie-business-consumer-demand.jpg)
+
 # **Movie Industry Analysis**
 ### Client  :  Microsoft
 > *Authored by: Patrick Anastasio*
@@ -38,7 +40,7 @@ From these merged and cleaned datasets I pulled dataframes based on:
 >3. directors of the top thirty (30) grossing movies, as well as writers and actors.
 
 ## Results
-#### Filtering the data on a minimum number of votes and a minimum rating threshold, my analysis shows the highest rated genres by average movie rating are:
+Filtering the data on a minimum number of votes and a minimum rating threshold, my analysis shows the highest rated genres by average movie rating are:
     
   > - **Action** is the top genre by a large margin 
 
@@ -49,7 +51,9 @@ From these merged and cleaned datasets I pulled dataframes based on:
         - Drama
         - Animation
         
-#### Looking at the gross profit of the top 30 movies of the modern era, my analysis shows the following:
+![image](./images/genres_by_rating.png)
+
+Looking at the gross profit of the top 30 movies of the modern era, my analysis shows the following:
 
    > - 15 were in the animation or computer-generated graphic genre, with many being franchises as well
 
@@ -57,9 +61,9 @@ From these merged and cleaned datasets I pulled dataframes based on:
         - All but 1 of those was part of a franchise, or connected series of movies
         - 6 were super-hero / comic book movies, and alll part of a franchise
         
+![image](./images/profit.png)
 
-
-#### Further, looking at the popularity scores of the top 30 most popular movies of the modern era, my analysis shows the following:
+Further, looking at the popularity scores of the top 30 most popular movies of the modern era, my analysis shows the following:
 
    > - 22 were in the action genre, 19 were part of a franchise
         - 16 of these were super-hero / comic book franchises
@@ -70,22 +74,35 @@ From these merged and cleaned datasets I pulled dataframes based on:
 
    > - 2 were fantasy/adventure franchises
 
-#### We also looked at who the directors were on the most profitable and the most opular movies, with some directors appearing multiple times in these lists.
+![image](./images/popularity_score.png)
+
+We also looked at who the directors were on the most profitable and the most popular movies, with some directors appearing multiple times in these lists.
+
+![image](./images/top_profit_directors.png)
+
+![image](./images/most_popular_directors.png)
 
 ## In Conclusion
-Based on these observations, there are three reccomendations that I will put forth
+Based on these observations, there are three reccomendations that I will put forth.
 
-#### 1. Microsoft should acquire the rights to a super-hero / comic book franchise, or possibly another type of action franchise
+#### 1.  Microsoft should acquire the rights to a super-hero / comic book franchise, or possibly another type of action franchise
 >- The most popular and profitable genre overall is action.  
 >- The most successful movies by both profitability and popularity were in the superhero / comic book sub-genre.  
 >- All were franchises
 
-#### 2. Microsoft should produce animated movies
+#### 2.  Microsoft should produce animated movies
 >- 15 of the top 30 most profitable were animation
 
-#### 3. Microsoft should attach top grossing and popular directors
+#### 3.  Microsoft should attach top grossing and popular directors
 >- Directors are the leaders on set and they can make or break a project. You want a proven and experienced director at the helm.  
 >- They bring buzz and notoriety, as well as attract top talent and collaborative investment to their projects
+
+## Further Considerations
+
+I would consider looking at the budgets of popular movies. We saw a slight positive correlation between budget and popularity. This could be a function of an increase in marketing budget, pay scales of top talent, or something else. This could prove to be a worthwhile anaysis of where to allocate capital in a budget, and whether certain escalations could pay dividends for the bottmline.
+
+![image](./images/popularity_vs_budget.png)
+
 
 #### Thank You!
 
